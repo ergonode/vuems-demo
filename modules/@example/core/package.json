@@ -1,0 +1,9 @@
+{
+  "name": "@example/core",
+  "version": "0.1.0",
+  "description": "Demo core module",
+  "main": "src/index.js",
+  "files": [
+    "src/*"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@example2/about",
+  "version": "0.0.1",
+  "description": "Demo about module",
+  "license": "OSL-3.0",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "main": "src/index.js",
+  "files": [
+    "src/*"
+  ]
+}
